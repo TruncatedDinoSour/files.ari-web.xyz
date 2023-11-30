@@ -1,3 +1,5 @@
+# deprecated -- use <https://files.ari.lt/> instead
+
 # [files.ari-web.xyz](https://files.ari-web.xyz)
 
 <p align="center">
